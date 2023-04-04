@@ -1,0 +1,5 @@
+﻿  test5.c
+C:\Clecture\CWorkspace\CGroupProject\CProject3\test5.c(24,23): error C2065: 'amount': 선언되지 않은 식별자입니다.
+C:\Clecture\CWorkspace\CGroupProject\CProject3\test5.c(44,26): error C2065: 'amount': 선언되지 않은 식별자입니다.
+C:\Clecture\CWorkspace\CGroupProject\CProject3\test5.c(50,2): error C2065: 't': 선언되지 않은 식별자입니다.
+C:\Clecture\CWorkspace\CGroupProject\CProject3\test5.c(50,2): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
